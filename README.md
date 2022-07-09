@@ -37,5 +37,5 @@ colorpv b47
 colorpv "#835"
 ```
 
-## Snapshots
+## Screenshots
 ![](img/img_1.png)
